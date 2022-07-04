@@ -18,6 +18,13 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 ## 02. 회원관리 예제
 - 간단한 회원관리 예제 요구사항 정리
 - 회원 도메인과 리포지토리 작성
-- 리포지토리 테스트케이스 작성 및 JUnit 테스트
+- 리포지토리 테스트케이스 작성 및 JUnit 테스트  
 
-```commit``` : [f19a844](https://github.com/meoldae/Spring_Introduction/commit/f19a844cbe55be8107c74a0c892c87ff24f56849)
+```commit``` : [f19a844](https://github.com/meoldae/Spring_Introduction/commit/f19a844cbe55be8107c74a0c892c87ff24f56849)  
+
+- 회원 서비스 작성
+- 회원 서비스 테스트 작성  
+
+```commit``` : [9184fab](https://github.com/meoldae/Spring_Introduction/commit/9184fab955946640cdb7a619e2e0b3792abb0e23)
+
+
