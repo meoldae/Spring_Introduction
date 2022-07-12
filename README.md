@@ -27,4 +27,9 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 
 ```commit``` : [9184fab](https://github.com/meoldae/Spring_Introduction/commit/9184fab955946640cdb7a619e2e0b3792abb0e23)
 
+## 03. 스프링 Bean 등록  
+- 의존성 주입 (Dependencies Injection)
+- ComponentScan ( Service, Controller, Repository ) 을 통한 Bean 등록
+- SpringConfig, 코드를 통해 직접 Bean 등록  
 
+```commit``` : [f11d0e8](https://github.com/meoldae/Spring_Introduction/commit/f11d0e886cd740db5551f187a2ee7bde867ec4bb)
