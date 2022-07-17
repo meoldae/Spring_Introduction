@@ -33,3 +33,10 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 - SpringConfig, 코드를 통해 직접 Bean 등록  
 
 ```commit``` : [f11d0e8](https://github.com/meoldae/Spring_Introduction/commit/f11d0e886cd740db5551f187a2ee7bde867ec4bb)
+
+## 04. 회원 웹 기능
+- 홈 화면 추가 ( Welcome Page X )
+- 회원 등록 추가
+- 회원 목록 추가
+
+```commit``` : [9aa3c1d](https://github.com/meoldae/Spring_Introduction/commit/9aa3c1d22a32df6899df427339801d4fa603f1ca)
