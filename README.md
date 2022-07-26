@@ -40,3 +40,8 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 - 회원 목록 추가
 
 ```commit``` : [9aa3c1d](https://github.com/meoldae/Spring_Introduction/commit/9aa3c1d22a32df6899df427339801d4fa603f1ca)
+
+## 05. 스프링 DB 접근 기술
+- 순수 JDBC를 이용한 DB 접근  
+
+```commit``` :[c572288](https://github.com/meoldae/Spring_Introduction/commit/c572288b8a2f851f558219ed97d326cd92c4ad96)
