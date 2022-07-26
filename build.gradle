@@ -16,6 +16,12 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	// JDBC Driver for DB Connection
+	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+
+	// DB Client
+	runtimeOnly 'com.h2database:h2'
 }
 
 tasks.named('test') {
