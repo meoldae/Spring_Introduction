@@ -45,3 +45,8 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 - 순수 JDBC를 이용한 DB 접근  
 
 ```commit``` :[c572288](https://github.com/meoldae/Spring_Introduction/commit/c572288b8a2f851f558219ed97d326cd92c4ad96)
+
+- 스프링을 통해 연결된 DB 통합 테스트 
+
+```commit``` :[e63e477](https://github.com/meoldae/Spring_Introduction/commit/e63e477cc88417c37014705d3ffc5ef0d28a016f)
+
