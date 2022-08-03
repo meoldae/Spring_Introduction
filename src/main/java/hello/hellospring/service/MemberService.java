@@ -13,7 +13,7 @@ public class MemberService {
 
     private final MemberRepository memberRepository;
 
-    // @Autowired
+    // @Autowired를 사용해서도 가능
     // Dependencies Injection ( 의존성 주입 )
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
