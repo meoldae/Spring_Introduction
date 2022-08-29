@@ -18,7 +18,10 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
 	// JDBC Driver for DB Connection
-	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+//	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+
+	// Java Persistence API
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 
 	// DB Client
 	runtimeOnly 'com.h2database:h2'
