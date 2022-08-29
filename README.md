@@ -54,5 +54,8 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 
 ```commit``` : [912b903](https://github.com/meoldae/Spring_Introduction/commit/912b90340ecb721800d40f6c2202f0dd36db1151)
 
+- JPA ( Java Persistence API ) 를 통한 DB 접근
+
+```commit``` : [55cc4f8](https://github.com/meoldae/Spring_Introduction/commit/55cc4f896998506d7872276852f62d54698dcd9a)
 
 
