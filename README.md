@@ -58,4 +58,8 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 
 ```commit``` : [55cc4f8](https://github.com/meoldae/Spring_Introduction/commit/55cc4f896998506d7872276852f62d54698dcd9a)
 
+- 데이터 JPA, 인터페이스만으로 개발
+
+```commit``` : [adbcefa](https://github.com/meoldae/Spring_Introduction/commit/adbcefa476b65cbf3c96b5854ff49a01e367bac2)
+
 
