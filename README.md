@@ -62,4 +62,8 @@ Inflearn - 스프링 입문_코드로 배우는 스프링
 
 ```commit``` : [adbcefa](https://github.com/meoldae/Spring_Introduction/commit/adbcefa476b65cbf3c96b5854ff49a01e367bac2)
 
+## 06. Aspect Objective Programming
+- AOP가 필요한 경우 
+- AOP 사용 예제와 작동원리
 
+```commit``` : [4dab098](https://github.com/meoldae/Spring_Introduction/commit/4dab0982ba1d4250c9b90897e55b144e6882c5dc)
